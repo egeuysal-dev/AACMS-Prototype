@@ -81,7 +81,11 @@ AACMS Prototype v0.1 is a standalone Windows x64 distribution. It includes the a
 
 ## Download
 
-The Windows package will be published through GitHub Releases as `AACMS-Prototype-v0.1-Windows.zip`. A direct v0.1.0 release link will be added after publication. The executable and ZIP are not committed to this repository.
+[AACMS Prototype v0.1 — GitHub Release](https://github.com/egeuysal-dev/AACMS-Prototype/releases/tag/v0.1.0) is available as a **pre-release**.
+
+**[Download AACMS-Prototype-v0.1-Windows.zip](https://github.com/egeuysal-dev/AACMS-Prototype/releases/download/v0.1.0/AACMS-Prototype-v0.1-Windows.zip)** — 26.37 MiB.
+
+The release description includes the SHA-256 checksum. The executable and ZIP are distributed only as Release assets and are not committed to this repository.
 
 ## Installation / Running
 
